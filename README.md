@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahsan Hashmi
 
-<!--
-**ahsan123hashmi-hue/ahsan123hashmi-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Web Designer | Frontend Developer | WordPress Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive, and AI-powered websites that deliver clean design and excellent user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Frontend Development
+- AI Website Development
+- React & TypeScript
+- UI/UX Design
+
+### 💼 What I Do
+- 🤖 AI-Assisted Website Development
+- 💻 Frontend Development
+- 🌐 WordPress Websites
+- 🎨 Responsive UI Design
+- ⚡ Landing Pages
