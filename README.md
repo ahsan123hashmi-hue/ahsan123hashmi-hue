@@ -11,8 +11,13 @@ I'm passionate about building modern, responsive, and AI-powered websites that d
 - UI/UX Design
 
 ### 💼 What I Do
-- 🤖 AI-Assisted Website Development
+
 - 💻 Frontend Development
 - 🌐 WordPress Websites
 - 🎨 Responsive UI Design
 - ⚡ Landing Pages
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,git,github,vscode,figma" />
+</p>- 🤖 AI-Assisted Website Development
